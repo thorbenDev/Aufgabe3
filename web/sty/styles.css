@@ -1,0 +1,75 @@
+/* base */
+body {
+    padding-top: 25px;
+    margin: 0 auto;
+}
+
+a:hover {
+    background: lightsteelblue !important;
+}
+
+h3 {
+    font: italic bold 24px/24px Georgia, serif;
+}
+
+h4 {
+    font-weight: bold;
+}
+
+/* bootstrap custom */
+
+.footer-left {
+    float: left;
+}
+
+.footer-right {
+    float: right;
+}
+
+.navbar {
+    background: #BBC8F2;
+}
+
+.nav.navbar-nav li a {
+    color: #27335B;
+    font-weight: bold;
+}
+
+.active a{
+    background: #899FDB !important;
+    color: #27335B !important;
+}
+
+.navbar-brand {
+    font: italic bold 24px/24px Georgia, serif;
+    color: #27335B !important;
+    text-shadow: 1px 1px white !important;
+}
+
+.btn {
+    background: white;
+}
+
+.breadcrumb {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/* custom CSS */
+
+#search {
+    background: lightgrey;
+}
+
+.content-rightside {
+    padding-right: 45px;
+}
+
+.content-leftside {
+    padding-right: 45px;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}

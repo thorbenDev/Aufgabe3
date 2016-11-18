@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Thu May 14 23:54:33 CEST 2015:
+Booten von Derby-Version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): Instanz a816c00e-014d-546b-ffab-00000e9b5dd0
+für Datenbankverzeichnis C:\Eclipse\workspace\psemnews\db\PSemNewsDB mit Class Loader sun.misc.Launcher$AppClassLoader@6f94fa3e
+Geladen aus file:/C:/ApacheDerby/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b14
+user.dir=c:\Eclipse\workspace\psemnews\db
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Datenbank-Class Loader wurde gestartet - derby.database.classpath=''
+----------------------------------------------------------------
+Thu May 14 23:54:58 CEST 2015: Derby-Engine wird heruntergefahren
+----------------------------------------------------------------
+Thu May 14 23:54:59 CEST 2015:
+Instanz a816c00e-014d-546b-ffab-00000e9b5dd0 im Datenbankverzeichnis C:\Eclipse\workspace\psemnews\db\PSemNewsDB mit Class Loader sun.misc.Launcher$AppClassLoader@6f94fa3e wird heruntergefahren
+----------------------------------------------------------------
